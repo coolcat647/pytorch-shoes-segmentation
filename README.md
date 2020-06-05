@@ -26,5 +26,5 @@ So far, we only labeled 100 images from the Internet, and trained Unet model(bac
 
 Note that we used `segmentation_models_pytorch` package to build Unet model quickly. Here are the quick test results.
 <p align="center">
-    <img src="repo_images/result_80images_200epochs.png" width="640">
+    <img src="figures/result_80images_200epochs.png" width="640">
 </p>

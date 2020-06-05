@@ -21,8 +21,6 @@
 *.txt
 *.zip
 models/
-!./figures/*.jpg
-!./figures/*.png
 
 # Deep learning related
 *.pth
@@ -38,3 +36,6 @@ devel/
 catkin_ws/src/CMakeLists.txt
 catkin_ws/.catkin_workspace
 catkin_ws/.catkin_tools
+
+# Repo figures
+!./figures/*
